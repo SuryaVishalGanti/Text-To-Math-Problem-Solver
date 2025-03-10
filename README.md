@@ -1,7 +1,3 @@
-Below is the revised version with bullet points instead of symbols:
-
----
-
 **Surya's Text to Math Problem Solver & Research Assistant**
 
 **Overview**  
@@ -66,5 +62,3 @@ This is an AI-powered Math Problem Solver & Research Assistant built using Strea
 - **Unrecognized Variables:** Assumes default values (e.g., k=1) and states the assumption.
 
 ---
-
-This format should be easy to follow and discuss during your interview. Let me know if you need any more changes or additional details!
